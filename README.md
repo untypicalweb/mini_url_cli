@@ -4,7 +4,7 @@ CLI for shortening urls
 Installation
 1. Download this repository
 2. Change directory into the repo
-3. Type the following command "pip install ."
+3. Type the following command `pip install .`
 
 ### Generate a new short URL
 

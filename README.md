@@ -1,4 +1,4 @@
-# mini_url_cli
+# Mini URL CLI
 CLI for shortening urls
 
 Installation

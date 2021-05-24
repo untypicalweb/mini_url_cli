@@ -1,0 +1,9 @@
+setup.py
+miniurl/__init__.py
+miniurl/cli.py
+miniurl.egg-info/PKG-INFO
+miniurl.egg-info/SOURCES.txt
+miniurl.egg-info/dependency_links.txt
+miniurl.egg-info/entry_points.txt
+miniurl.egg-info/requires.txt
+miniurl.egg-info/top_level.txt

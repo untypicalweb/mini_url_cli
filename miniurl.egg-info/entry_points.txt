@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        miniurl=miniurl.cli:cli
+    

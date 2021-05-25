@@ -5,6 +5,7 @@ Installation
 1. Download this repository
 2. Change directory into the repo
 3. Type the following command `pip install .`
+4. Open a new terimal or Command prompt and start using MiniURL
 
 ### Generate a new short URL
 
